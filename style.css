@@ -1,0 +1,8 @@
+.hide{
+    display: none;
+}
+.error-msg{
+    color: #ff0000;
+    text-align: center;
+    border: 0px solid #ff0000;
+}
